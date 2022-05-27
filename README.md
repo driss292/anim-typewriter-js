@@ -1,1 +1,1 @@
-# anim-typewriter-js
+# test-anim-typewriter-js
